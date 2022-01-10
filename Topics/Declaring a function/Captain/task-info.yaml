@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# declare your function here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7284#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 13 Oct 2021 03:05:25 UTC
+record: -1
